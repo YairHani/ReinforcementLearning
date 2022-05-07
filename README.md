@@ -6,6 +6,6 @@ project for submission
 3. להכנס לפרויקט ב - google colab.
 4. לגרור את 7 הקבצים לתיקיית contant לפי התמונה.
 
-![image](https://user-images.githubusercontent.com/75435827/167268370-b09908b0-4d36-453a-8e13-73745b3d09d6.png)
+![image](https://user-images.githubusercontent.com/75435827/167268557-0adcbb6a-5d11-4289-bdb3-e94ffc5718bd.png)
 
 6. להריץ את הכל "run all".
